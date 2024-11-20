@@ -1,0 +1,65 @@
+/camera_node:
+  ros__parameters:
+    camera_info_url: package://rm_vision_bringup/config/camera_info.yaml
+    exposure_time: 2500
+    gain: 16.0
+
+/serial_driver:
+  ros__parameters:
+    timestamp_offset: 0.001
+    device_name: /dev/ttyRM
+
+    yaw_fix: 0.7
+    pitch_fix: 0.3
+
+    rune_yaw_fix: 0.6
+    rune_pitch_fix: -5.5
+    
+    large_length: 0.2
+    large_z: 0.06
+    small_length: 0.04
+    small_z: 0.02
+    
+    baud_rate: 115200
+    flow_control: none
+    parity: none
+    stop_bits: "1"
+
+/armor_detector:
+  ros__parameters:
+    debug: false
+    detect_color: 0
+    binary_thres: 65
+
+    light.min_ratio: 0.05
+    armor.min_light_ratio: 0.8
+
+    classifier_threshold: 0.8
+    ignore_classes: ["negative"]
+
+    aim_mode: 0
+
+
+/armor_tracker:
+  ros__parameters:
+    target_frame: odom
+    max_armor_distance: 10.0
+
+    ekf:
+      sigma2_q_xyz: 5e-2
+      sigma2_q_yaw: 1e1
+      sigma2_q_r: 80.0
+
+      r_xyz_factor: 1e-4
+      r_yaw: 1e-3
+
+    tracker:
+      max_match_distance: 0.8
+      max_match_yaw_diff: 1.0
+
+      tracking_thres: 4
+      lost_time_thres: 0.8
+
+
+      history_deque_len_cos: 250  #大符全部参数拟合队列长度
+      history_deque_len_phase: 60 #大符相位参数拟合队列长度
