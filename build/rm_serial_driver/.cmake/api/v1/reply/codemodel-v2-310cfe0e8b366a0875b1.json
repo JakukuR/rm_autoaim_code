@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-707729daf3d4bdb617de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rm_serial_driver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rm_serial_driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rm_serial_driver-9289f923e4855583850e.json",
+					"name" : "rm_serial_driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rm_serial_driver_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rm_serial_driver_node-189f88307fb48da937bc.json",
+					"name" : "rm_serial_driver_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rm_serial_driver_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rm_serial_driver_uninstall-0b46dc52d505942172ca.json",
+					"name" : "rm_serial_driver_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-685abbfaffc71adaf5a7.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jakukur/Desktop/standard_god_zhang/build/rm_serial_driver",
+		"source" : "/home/jakukur/Desktop/standard_god_zhang/src/rm_serial_driver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

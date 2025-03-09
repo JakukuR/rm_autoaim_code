@@ -1,0 +1,4 @@
+# generated from colcon_core/shell/template/command_prefix.sh.em
+. "/home/jakukur/Desktop/standard_god_zhang/install/auto_aim_interfaces/share/auto_aim_interfaces/package.sh"
+. "/home/jakukur/Desktop/standard_god_zhang/install/armor_detector/share/armor_detector/package.sh"
+. "/home/jakukur/Desktop/standard_god_zhang/install/armor_tracker/share/armor_tracker/package.sh"

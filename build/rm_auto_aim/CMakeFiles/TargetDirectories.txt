@@ -1,0 +1,9 @@
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/CMakeFiles/uninstall.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/CMakeFiles/rm_auto_aim_uninstall.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/CMakeFiles/test.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/CMakeFiles/edit_cache.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/CMakeFiles/rebuild_cache.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/CMakeFiles/list_install_components.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/CMakeFiles/install.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/CMakeFiles/install/local.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/CMakeFiles/install/strip.dir

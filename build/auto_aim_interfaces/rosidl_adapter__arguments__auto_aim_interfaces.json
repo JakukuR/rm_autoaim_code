@@ -1,0 +1,19 @@
+{
+  "package_name": "auto_aim_interfaces",
+  "non_idl_tuples": [
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/Armor.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/Armors.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/Rune.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/Target.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/TargetRune.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/DebugLight.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/DebugLights.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/DebugArmor.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/DebugArmors.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/DebugRune.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/DebugSend.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/DebugSendArmors.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/TrackerInfo.msg",
+    "/home/jakukur/Desktop/standard_god_zhang/src/rm_auto_aim/auto_aim_interfaces:msg/SendArmors.msg"
+  ]
+}

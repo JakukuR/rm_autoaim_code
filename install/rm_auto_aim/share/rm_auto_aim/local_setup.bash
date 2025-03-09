@@ -1,0 +1,1 @@
+/home/jakukur/Desktop/standard_god_zhang/build/rm_auto_aim/ament_cmake_environment_hooks/local_setup.bash

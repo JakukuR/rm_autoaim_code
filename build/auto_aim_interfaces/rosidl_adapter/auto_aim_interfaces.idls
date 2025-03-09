@@ -1,0 +1,14 @@
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/Armor.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/Armors.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/Rune.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/Target.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/TargetRune.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/DebugLight.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/DebugLights.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/DebugArmor.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/DebugArmors.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/DebugRune.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/DebugSend.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/DebugSendArmors.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/TrackerInfo.idl
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_adapter/auto_aim_interfaces:msg/SendArmors.idl

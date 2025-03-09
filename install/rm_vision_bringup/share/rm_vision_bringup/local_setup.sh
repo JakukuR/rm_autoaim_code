@@ -1,0 +1,1 @@
+/home/jakukur/Desktop/standard_god_zhang/build/rm_vision_bringup/ament_cmake_environment_hooks/local_setup.sh

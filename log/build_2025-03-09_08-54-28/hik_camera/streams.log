@@ -1,0 +1,83 @@
+[0.010s] Invoking command in '/home/jakukur/Desktop/standard_god_zhang/build/hik_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/jakukur/Desktop/standard_god_zhang/src/ros2_hik_camera -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jakukur/Desktop/standard_god_zhang/install/hik_camera
+[0.064s] -- The C compiler identification is GNU 13.1.0
+[0.109s] -- The CXX compiler identification is GNU 13.1.0
+[0.117s] -- Detecting C compiler ABI info
+[0.166s] -- Detecting C compiler ABI info - done
+[0.171s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.171s] -- Detecting C compile features
+[0.171s] -- Detecting C compile features - done
+[0.174s] -- Detecting CXX compiler ABI info
+[0.230s] -- Detecting CXX compiler ABI info - done
+[0.236s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.236s] -- Detecting CXX compile features
+[0.236s] -- Detecting CXX compile features - done
+[0.237s] -- Found ament_cmake_auto: 1.3.11 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.325s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.369s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.460s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.463s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.468s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.476s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.487s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.517s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.518s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.574s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.592s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.620s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.626s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.669s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.670s] -- Found Threads: TRUE  
+[0.772s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.785s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.785s] -- Configured cppcheck include dirs: /home/jakukur/Desktop/standard_god_zhang/src/ros2_hik_camera/hikSDK/include
+[0.786s] -- Configured cppcheck exclude dirs and/or files: 
+[0.786s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.786s] -- Added test 'lint_cmake' to check CMake code style
+[0.787s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.787s] -- Added test 'xmllint' to check XML markup files
+[0.789s] -- Configuring done
+[0.798s] -- Generating done
+[0.801s] -- Build files have been written to: /home/jakukur/Desktop/standard_god_zhang/build/hik_camera
+[0.808s] Invoked command in '/home/jakukur/Desktop/standard_god_zhang/build/hik_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/jakukur/Desktop/standard_god_zhang/src/ros2_hik_camera -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jakukur/Desktop/standard_god_zhang/install/hik_camera
+[0.809s] Invoking command in '/home/jakukur/Desktop/standard_god_zhang/build/hik_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/jakukur/Desktop/standard_god_zhang/build/hik_camera -- -j20 -l20
+[0.833s] [ 50%] [32mBuilding CXX object CMakeFiles/hik_camera.dir/src/hik_camera_node.cpp.o[0m
+[0.833s] [ 50%] [32mBuilding CXX object CMakeFiles/hik_camera_node.dir/rclcpp_components/node_main_hik_camera_node.cpp.o[0m
+[3.522s] [ 75%] [32m[1mLinking CXX executable hik_camera_node[0m
+[3.626s] [ 75%] Built target hik_camera_node
+[3.737s] [100%] [32m[1mLinking CXX shared library libhik_camera.so[0m
+[3.825s] [100%] Built target hik_camera
+[3.830s] Invoked command in '/home/jakukur/Desktop/standard_god_zhang/build/hik_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/jakukur/Desktop/standard_god_zhang/build/hik_camera -- -j20 -l20
+[3.831s] Invoking command in '/home/jakukur/Desktop/standard_god_zhang/build/hik_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/jakukur/Desktop/standard_god_zhang/build/hik_camera
+[3.832s] -- Install configuration: ""
+[3.833s] -- Execute custom install script
+[3.833s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/lib/libFormatConversion.so
+[3.836s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/lib/libMVRender.so
+[3.838s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/lib/libMediaProcess.so
+[3.842s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/lib/libMvCameraControl.so
+[3.846s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/lib/libMvUsb3vTL.so
+[3.849s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/lib/hik_camera/hik_camera_node
+[3.854s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/environment/library_path.sh
+[3.856s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/environment/library_path.dsv
+[3.860s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/lib/libhik_camera.so
+[3.862s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/config/camera_info.yaml
+[3.865s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/config/camera_params.yaml
+[3.867s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/launch/hik_camera.launch.py
+[3.871s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/ament_index/resource_index/package_run_dependencies/hik_camera
+[3.874s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/ament_index/resource_index/parent_prefix_path/hik_camera
+[3.876s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/environment/ament_prefix_path.sh
+[3.880s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/environment/ament_prefix_path.dsv
+[3.882s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/environment/path.sh
+[3.886s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/environment/path.dsv
+[3.888s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/local_setup.bash
+[3.890s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/local_setup.sh
+[3.893s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/local_setup.zsh
+[3.897s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/local_setup.dsv
+[3.899s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/package.dsv
+[3.901s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/ament_index/resource_index/packages/hik_camera
+[3.903s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/ament_index/resource_index/rclcpp_components/hik_camera
+[3.907s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.909s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/cmake/ament_cmake_export_libraries-extras.cmake
+[3.912s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/cmake/hik_cameraConfig.cmake
+[3.915s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/cmake/hik_cameraConfig-version.cmake
+[3.918s] -- Symlinking: /home/jakukur/Desktop/standard_god_zhang/install/hik_camera/share/hik_camera/package.xml
+[3.921s] Invoked command in '/home/jakukur/Desktop/standard_god_zhang/build/hik_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/jakukur/Desktop/standard_god_zhang/build/hik_camera

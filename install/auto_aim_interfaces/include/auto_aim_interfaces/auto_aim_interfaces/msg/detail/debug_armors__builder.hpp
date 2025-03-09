@@ -1,0 +1,1 @@
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_generator_cpp/auto_aim_interfaces/msg/detail/debug_armors__builder.hpp

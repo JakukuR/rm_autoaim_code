@@ -1,0 +1,1 @@
+/home/jakukur/Desktop/standard_god_zhang/build/auto_aim_interfaces/rosidl_generator_py/auto_aim_interfaces/msg/_debug_armor.py

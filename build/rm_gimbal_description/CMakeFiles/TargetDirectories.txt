@@ -1,0 +1,9 @@
+/home/jakukur/Desktop/standard_god_zhang/build/rm_gimbal_description/CMakeFiles/uninstall.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_gimbal_description/CMakeFiles/rm_gimbal_description_uninstall.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_gimbal_description/CMakeFiles/test.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_gimbal_description/CMakeFiles/edit_cache.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_gimbal_description/CMakeFiles/rebuild_cache.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_gimbal_description/CMakeFiles/list_install_components.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_gimbal_description/CMakeFiles/install.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_gimbal_description/CMakeFiles/install/local.dir
+/home/jakukur/Desktop/standard_god_zhang/build/rm_gimbal_description/CMakeFiles/install/strip.dir
